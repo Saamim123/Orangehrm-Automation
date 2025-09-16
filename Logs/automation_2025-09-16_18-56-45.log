@@ -1,0 +1,50 @@
+2025-09-16 18:56:45,813 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=False)
+2025-09-16 18:56:47,797 INFO utilities.customlogger [MainThread] ------- Starting User Login Test ----------
+2025-09-16 18:56:47,797 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 18:56:51,975 INFO utilities.customlogger [MainThread] Entering username
+2025-09-16 18:56:53,605 INFO utilities.customlogger [MainThread] Entering password
+2025-09-16 18:56:53,695 INFO utilities.customlogger [MainThread] Clicking login
+2025-09-16 18:56:55,388 INFO utilities.customlogger [MainThread] -------Starting add employee Test----------
+2025-09-16 18:56:58,812 INFO utilities.customlogger [MainThread] Requested empid=355510 final_empid=0492355510
+2025-09-16 18:57:01,411 INFO utilities.customlogger [MainThread] Toast: Admin
+PIM
+Leave
+Time
+Recruitment
+My Info
+Performance
+Dashboard
+Directory
+Maintenance
+Claim
+Buzz
+PIM
+Upgrade
+Prueba Prueba2
+Configuration
+Employee List
+Add Employee
+Reports
+Add Employee
+Accepts jpg, .png, .gif up to 1MB. Recommended dimensions: 200px X 200px
+Employee Full Name
+Employee Id
+Create Login Details
+Username
+Status
+Enabled
+Disabled
+Strongest
+Password
+For a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbers
+Confirm Password
+* Required
+Cancel
+Save
+OrangeHRM OS 5.7
+© 2005 - 2025 OrangeHRM, Inc. All rights reserved.
+
+Success
+Successfully Saved
+×
+2025-09-16 18:57:03,394 INFO utilities.customlogger [MainThread] Quitting browser

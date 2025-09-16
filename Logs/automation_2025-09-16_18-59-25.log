@@ -1,0 +1,75 @@
+2025-09-16 18:59:25,337 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=False)
+2025-09-16 18:59:26,642 INFO utilities.customlogger [MainThread] ------- Starting User Login Test ----------
+2025-09-16 18:59:26,644 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 18:59:30,500 INFO utilities.customlogger [MainThread] Entering username
+2025-09-16 18:59:31,639 INFO utilities.customlogger [MainThread] Entering password
+2025-09-16 18:59:31,745 INFO utilities.customlogger [MainThread] Clicking login
+2025-09-16 18:59:33,426 INFO utilities.customlogger [MainThread] -------Starting add employee Test----------
+2025-09-16 18:59:36,872 INFO utilities.customlogger [MainThread] Requested empid=627746 final_empid=0496627746
+2025-09-16 18:59:39,457 INFO utilities.customlogger [MainThread] Toast: Admin
+PIM
+Leave
+Time
+Recruitment
+My Info
+Performance
+Dashboard
+Directory
+Maintenance
+Claim
+Buzz
+PIM
+Upgrade
+Prueba Prueba2
+Configuration
+Employee List
+Add Employee
+Reports
+Add Employee
+Accepts jpg, .png, .gif up to 1MB. Recommended dimensions: 200px X 200px
+Employee Full Name
+Employee Id
+Create Login Details
+Username
+Status
+Enabled
+Disabled
+Strongest
+Password
+For a strong password, please use a hard to guess combination of text with upper and lower case characters, symbols and numbers
+Confirm Password
+* Required
+Cancel
+Save
+OrangeHRM OS 5.7
+© 2005 - 2025 OrangeHRM, Inc. All rights reserved.
+
+Success
+Successfully Saved
+×
+2025-09-16 18:59:40,966 INFO utilities.customlogger [MainThread] Quitting browser
+2025-09-16 18:59:43,471 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=False)
+2025-09-16 18:59:44,733 INFO utilities.customlogger [MainThread] ------- Starting User Login Test ----------
+2025-09-16 18:59:44,733 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 18:59:48,351 INFO utilities.customlogger [MainThread] Entering username
+2025-09-16 18:59:48,836 INFO utilities.customlogger [MainThread] Entering password
+2025-09-16 18:59:48,931 INFO utilities.customlogger [MainThread] Clicking login
+2025-09-16 18:59:50,731 INFO utilities.customlogger [MainThread] -------Starting deleting PM record Test----------
+2025-09-16 18:59:53,800 INFO utilities.customlogger [MainThread] -------confirming delete toast message----------
+2025-09-16 18:59:53,801 INFO utilities.customlogger [MainThread] Quitting browser
+2025-09-16 18:59:56,127 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=False)
+2025-09-16 18:59:57,419 INFO utilities.customlogger [MainThread] -------Starting User Login Test----------
+2025-09-16 18:59:57,420 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 19:00:01,086 INFO utilities.customlogger [MainThread] ------- Entering password ----------
+2025-09-16 19:00:01,205 INFO utilities.customlogger [MainThread] Clicking login button
+2025-09-16 19:00:03,155 INFO utilities.customlogger [MainThread] Quitting browser
+2025-09-16 19:00:05,558 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=False)
+2025-09-16 19:00:06,795 INFO utilities.customlogger [MainThread] ------- Starting User Login Test ----------
+2025-09-16 19:00:06,795 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 19:00:10,238 INFO utilities.customlogger [MainThread] Entering username
+2025-09-16 19:00:10,735 INFO utilities.customlogger [MainThread] Entering password
+2025-09-16 19:00:10,826 INFO utilities.customlogger [MainThread] Clicking login
+2025-09-16 19:00:12,631 INFO utilities.customlogger [MainThread] -------Starting User Logout Test----------
+2025-09-16 19:00:12,699 INFO utilities.customlogger [MainThread] Clicking logout button
+2025-09-16 19:00:16,495 INFO utilities.customlogger [MainThread] Logout successful, login page logo is visible.
+2025-09-16 19:00:16,496 INFO utilities.customlogger [MainThread] Quitting browser

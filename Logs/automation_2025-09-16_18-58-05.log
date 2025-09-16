@@ -1,0 +1,34 @@
+2025-09-16 18:58:05,399 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=True)
+2025-09-16 18:58:06,637 INFO utilities.customlogger [MainThread] ------- Starting User Login Test ----------
+2025-09-16 18:58:06,637 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 18:58:10,635 INFO utilities.customlogger [MainThread] Entering username
+2025-09-16 18:58:11,126 INFO utilities.customlogger [MainThread] Entering password
+2025-09-16 18:58:11,223 INFO utilities.customlogger [MainThread] Clicking login
+2025-09-16 18:58:13,143 INFO utilities.customlogger [MainThread] -------Starting add employee Test----------
+2025-09-16 18:58:21,681 ERROR utilities.customlogger [MainThread] Test failed - screenshot saved to C:\Users\Admin\PycharmProjects\OrangeHRM\screenshots\failure_test_add_employee_20250916_185821_235239.png
+2025-09-16 18:58:21,682 INFO utilities.customlogger [MainThread] Quitting browser
+2025-09-16 18:58:24,126 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=True)
+2025-09-16 18:58:26,157 INFO utilities.customlogger [MainThread] ------- Starting User Login Test ----------
+2025-09-16 18:58:26,157 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 18:58:29,812 INFO utilities.customlogger [MainThread] Entering username
+2025-09-16 18:58:30,300 INFO utilities.customlogger [MainThread] Entering password
+2025-09-16 18:58:30,415 INFO utilities.customlogger [MainThread] Clicking login
+2025-09-16 18:58:32,233 INFO utilities.customlogger [MainThread] -------Starting deleting PM record Test----------
+2025-09-16 18:58:40,699 ERROR utilities.customlogger [MainThread] Test failed - screenshot saved to C:\Users\Admin\PycharmProjects\OrangeHRM\screenshots\failure_test_delete_record_from_PIM_20250916_185840_4a1dbd.png
+2025-09-16 18:58:40,700 INFO utilities.customlogger [MainThread] Quitting browser
+2025-09-16 18:58:43,134 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=True)
+2025-09-16 18:58:44,338 INFO utilities.customlogger [MainThread] -------Starting User Login Test----------
+2025-09-16 18:58:44,339 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 18:58:48,628 INFO utilities.customlogger [MainThread] ------- Entering password ----------
+2025-09-16 18:58:48,714 INFO utilities.customlogger [MainThread] Clicking login button
+2025-09-16 18:58:50,691 INFO utilities.customlogger [MainThread] Quitting browser
+2025-09-16 18:58:53,079 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=True)
+2025-09-16 18:58:54,284 INFO utilities.customlogger [MainThread] ------- Starting User Login Test ----------
+2025-09-16 18:58:54,285 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 18:58:58,084 INFO utilities.customlogger [MainThread] Entering username
+2025-09-16 18:58:59,719 INFO utilities.customlogger [MainThread] Entering password
+2025-09-16 18:58:59,853 INFO utilities.customlogger [MainThread] Clicking login
+2025-09-16 18:59:01,926 INFO utilities.customlogger [MainThread] -------Starting User Logout Test----------
+2025-09-16 18:59:01,997 INFO utilities.customlogger [MainThread] Clicking logout button
+2025-09-16 18:59:04,607 INFO utilities.customlogger [MainThread] Logout successful, login page logo is visible.
+2025-09-16 18:59:04,608 INFO utilities.customlogger [MainThread] Quitting browser

@@ -1,0 +1,9 @@
+2025-09-16 18:57:38,623 INFO utilities.customlogger [MainThread] Starting browser: chrome (headless=False)
+2025-09-16 18:57:40,240 INFO utilities.customlogger [MainThread] ------- Starting User Login Test ----------
+2025-09-16 18:57:40,240 INFO utilities.customlogger [MainThread] Opening URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-09-16 18:57:44,238 INFO utilities.customlogger [MainThread] Entering username
+2025-09-16 18:57:45,255 INFO utilities.customlogger [MainThread] Entering password
+2025-09-16 18:57:45,342 INFO utilities.customlogger [MainThread] Clicking login
+2025-09-16 18:57:47,200 INFO utilities.customlogger [MainThread] -------Starting deleting PM record Test----------
+2025-09-16 18:57:49,303 INFO utilities.customlogger [MainThread] -------confirming delete toast message----------
+2025-09-16 18:57:49,304 INFO utilities.customlogger [MainThread] Quitting browser
